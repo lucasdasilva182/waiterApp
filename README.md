@@ -13,7 +13,7 @@
 <br>
 
 <p align="center">
-  <img alt="rocketpay" src=".github/capa.png" width="100%">
+  <img alt="Waiter App" src=".github/capa.png" width="100%">
 </p>
 
 ## 🚀 Tecnologias
