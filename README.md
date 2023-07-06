@@ -31,7 +31,7 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 
 ## 💻 Projeto
 
-O Waiter App é um aplicativo mobile de comanda eletrônica, onde o garçon fará o pedido que chegará no site em tempo real, onde o pessoal poderá mudar o status para: ###Preparação ou ###Finalizado.
+O Waiter App é um aplicativo mobile de comanda eletrônica, onde o garçon fará o pedido que chegará no site em tempo real, onde o pessoal poderá mudar o status para: Preparação ou Finalizado.
 
 ## :memo: Licença
 
