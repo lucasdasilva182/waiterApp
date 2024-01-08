@@ -31,7 +31,7 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 
 ## 💻 Projeto
 
-O Waiter App é um aplicativo mobile de comanda eletrônica, onde o garçon fará o pedido que chegará no site em tempo real, onde o pessoal poderá mudar o status para: Preparação ou Finalizado.
+O WAITERAPP é uma aplicação para gerenciamento de pedidos via comanda eletrônica. Basicamente garçon faz o pedido, que é enviado para o site em tempo real, e então com o avanço do preparo o status poderá ser alterado para: "Em Preparação" ou "Finalizado".
 
 ## :memo: Licença
 
