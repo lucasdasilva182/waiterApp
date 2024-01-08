@@ -39,4 +39,4 @@ Esse projeto está sob a licença MIT.
 
 ---
 
-Feito com ♥ by [Lucas Silva](https://github.com/lucasdasilva182) :wave:
+Made with ♥ by [Lucas Silva](https://github.com/lucasdasilva182) & teached by [Mateus Silva](https://github.com/maateusilva) :wave:
